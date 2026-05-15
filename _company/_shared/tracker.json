@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": "20260515110728-oph7",
+      "title": "(추가) 시장 점유율 X% 달성.",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-15T11:07:28.087Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T11-07",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T11-07/_report.md\n- 코다리: 이전 로그에서 제시된 'GitHub Sync Diagnoser' 스크립트(github_sync_diagnoser.py)를 전면 재검토하고 개선하\n\nCEO 종합 요점: 💻 코다리: 작업 시작합니다.\n\nGitHub 동기화 실패 진단 로직을 고도화하는 작업은 매우 중요합니다. 단순히 에러 메시지를 받는 것만으로는 디버깅이 불가능하고, 근본적인 원인(Root Cause) 분석이 필요하죠. ⚙️ 요구하신 대로, 단순한 '실패 여부' 판별을 넘어 '왜 실패했는지', 그리고 '어떻게 고쳐야 하는지'를 제시하는 진단 시스템으로 개선",
+      "completedAt": "2026-05-15T11:07:38.161Z"
+    }
+  ]
+}
